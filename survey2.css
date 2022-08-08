@@ -1,0 +1,87 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+  background-color: rgb(140, 219, 248);
+  margin-left: 10px;
+  
+}
+.baslik {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.alt_baslik {
+  font: size 20px;
+  margin-bottom: 10px;
+}
+.name_kimlik #name {
+  margin-top: 10px;
+}
+.lname_kimlik #lname{
+    margin-top: 10px;
+
+}
+.email #mail{
+    margin-top: 10px;
+}
+.dropListe{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.radio_list li{
+    padding-top: 10px;
+}
+.fav_select{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#fav_liste{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.label_check{
+    margin-bottom: 5px;
+}
+.checkbox_liste li{
+    padding-top: 10px;
+}
+.label_comment{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+textarea{
+    overflow-y: scroll;
+    background-color: rgb(243, 177, 177);
+}
+a{text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:active{
+    background-color: aqua;
+}
+input{
+    background-color: rgb(19, 220, 246);
+}
+select{
+    background-color: rgb(42, 138, 165);
+    
+}
+input:hover{
+    background-color: rgb(248, 20, 20);
+}
+select:hover{
+    background-color: rgb(74, 255, 54);
+}
+.radio_list:hover{
+    color: rgb(165, 42, 50);
+}
+.checkbox_liste:hover{
+    color: brown;
+}
+
